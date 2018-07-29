@@ -1,0 +1,10 @@
+{
+    "name": "discord-noxbot",
+    "version": "1.0.0",
+    "description": "My Discord bot",
+    "main": "bot.js",
+    "author": "noxis@grosseteub.fr",
+    "repository": "github:ChuckNoxis/DiscordBot",
+    "license": "WTFPL",
+    "dependencies": {}
+}
